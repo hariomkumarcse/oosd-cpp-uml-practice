@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# C++ compiled files
+*.o
+*.obj
+*.out
+*.exe
+
+# Executables
+a.out
+
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS / editor temporary files
+*.swp
+*.swo
+*~
+
+# Debug files
+*.dSYM/
