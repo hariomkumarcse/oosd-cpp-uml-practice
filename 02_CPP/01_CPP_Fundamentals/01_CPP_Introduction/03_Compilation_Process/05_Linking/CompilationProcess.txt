@@ -1,0 +1,6 @@
+
+Step 1:
+	g++ Multiple_File_Main.cpp Multiple_File_Function.cpp -o linking_demo
+
+Step 2:
+	./linking_demo
